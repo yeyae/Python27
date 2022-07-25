@@ -7,3 +7,5 @@ elif 'card':
     print("택시를 타고 가라")
 else:
     print("걸어 가라")
+
+#elif는 개수 제한 없이 사용 가능
